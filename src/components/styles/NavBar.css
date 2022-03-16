@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Cormorant+Garamond&family=Montserrat&display=swap');
+
+.main-title {
+	padding-left: 5%;
+	display: flex;
+	color: antiquewhite;
+	align-items: center;
+}
+
+.main-title img {
+	height: 3rem;
+	width: auto;
+	max-width: 5vw;
+	margin-right: 1rem;
+}
+
+.main-nav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: gray;
+	font-family: "Montserrat";
+}
+
+.main-nav-menu {
+	display: flex;
+	margin: 0;
+	padding: 0;
+}
+
+.main-nav-menu li {
+	padding: 3rem;
+	text-decoration: none;
+	list-style: none;
+	color: antiquewhite;
+
+}
+
+.main-nav-menu li:hover {
+	background-color: antiquewhite;
+	color: gray;
+	cursor: pointer;
+}
