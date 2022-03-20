@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.ad622e40.css",
-    "main.js": "/static/js/main.e3f1c85d.js",
-    "static/media/dynamacore_logo.PNG": "/static/media/dynamacore_logo.c3b3a402d1ff0cb5e396.PNG",
+    "main.js": "/static/js/main.a6f08e56.js",
+    "static/media/dynamacore_logo.PNG": "/static/media/dynamacore_logo.38fb76a8c124e34e88bc.PNG",
     "index.html": "/index.html",
     "main.ad622e40.css.map": "/static/css/main.ad622e40.css.map",
-    "main.e3f1c85d.js.map": "/static/js/main.e3f1c85d.js.map"
+    "main.a6f08e56.js.map": "/static/js/main.a6f08e56.js.map"
   },
   "entrypoints": [
     "static/css/main.ad622e40.css",
-    "static/js/main.e3f1c85d.js"
+    "static/js/main.a6f08e56.js"
   ]
 }
